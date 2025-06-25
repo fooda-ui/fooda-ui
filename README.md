@@ -1,35 +1,54 @@
-> 👨🏻‍💻 Web Front-end Developer
+# 👨🏻‍💻 Fady Boulos | Web & Mobile Developer
 
-### Tech Stack
+Hi! I'm Fady, a passionate full-stack developer specializing in building modern, responsive web and mobile applications. I focus on delivering clean, high-performance solutions using cutting-edge technologies.
 
-- 🛠 Lang & Framework: Vue/React, Javascript
-- ⛏ Interest: Svelte, Typescript
+---
 
-### Latest posts from 📝 [xiaozhu.dev](https://xiaozhu.dev)
+### 💼 Tech Stack
 
-- [深入了解现代浏览器工作原理（二）「译」](https://xiaozhu.dev/post/inside-look-at-modern-web-browser-2/) (2022-4-24)
-- [深入了解现代浏览器工作原理（一）「译」](https://xiaozhu.dev/post/inside-look-at-modern-web-browser-1/) (2022-4-22)
-- [前端开发环境 - Mac 篇](https://xiaozhu.dev/post/web-dev-mac-env/) (2021-3-25)
+- 🌐 **Front-End**: HTML5, CSS3, JavaScript, React, Vue, TailwindCSS
+- 📱 **Mobile**: Flutter, Kotlin, Java (Android)
+- ⚙️ **Back-End**: Node.js, Express.js, Firebase, SQLite
+- 🛢 **Database**: MySQL, SQLite, Firestore
+- 🛠 **Tools**: Git, GitHub, VS Code, Postman, Figma
+- 🧠 **Learning**: Next.js, React Native, TypeScript
 
-### TIL from 🗒 [til.xiaozhu.dev](https://til.xiaozhu.dev)
+---
 
-- [DNS 服务器分类和域名解析流程](https://til.xiaozhu.dev/network/dns-intro) (2021-9-16)
-- [Node.js 包管理器的管理器 Corepack 的介绍和使用](https://til.xiaozhu.dev/node/corepack) (2021-9-15)
-- [sticky 基本使用](https://til.xiaozhu.dev/css/position-sticky) (2021-9-11)
+### 📂 Featured Projects
 
-### Portfolio
+- 🔹 **Prestige POS App** – Offline sales system with admin/user access, Excel reports, and local database.
+- 🔹 **Furniture Store Website** – Custom-designed furniture e-commerce website with Instagram integration.
+- 🔹 **Multi-platform Inventory System** – Built with barcode auto-generation and single warehouse support.
 
-> *pending...*
+---
 
-![Leo's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
+### 📌 Blogs & Resources (coming soon...)
+
+- 📝 Tech guides, tutorials, and quick TILs
+- 📚 Use cases and project breakdowns
+
+---
+
+### 📊 GitHub Stats
+
+![Fady's GitHub stats](https://github-readme-stats.vercel.app/api?username=FadyBoulos&show_icons=true&theme=dracula&hide=stars,issues)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FadyBoulos&layout=compact&theme=dracula)
+
+---
 
 <details>
-  <summary>Click👆</summary>
-  <pre>
-  🤷‍♂️
-  </pre>
+  <summary>📬 Contact Me</summary>
+  
+  - 📧 Email: fady@example.com
+  - 📱 WhatsApp: +201234567890
+  - 📷 [Instagram](https://www.instagram.com/yourprofile)
+  - 🌐 [Portfolio Website](https://yourwebsite.com)
+  
 </details>
 
-![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)
--->
+---
+
+![build](https://github.com/FadyBoulos/FadyBoulos/workflows/build/badge.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/FadyBoulos/FadyBoulos)
